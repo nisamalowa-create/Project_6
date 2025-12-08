@@ -1,6 +1,6 @@
 # Project_6
 
-
+GAMBAR 1
 https://drive.google.com/file/d/1_enU5_jOZsNlQE_oaw4aLwEmCWfA1Ao2/view?usp=drivesdk
 
 
@@ -107,6 +107,8 @@ Script ini digunakan untuk: ✔ Otomatis membuat folder banyak sekaligus
 ✔ Membuat struktur direktori
 ✔ Membuat file contoh di tiap folder
 
+
+GAMBAR 2
 
 https://drive.google.com/file/d/15WLuxXnhb6v0l5oCsdrz7amwrihI-XO0/view?usp=drivesdk
 
