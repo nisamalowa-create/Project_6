@@ -109,7 +109,6 @@ Script ini digunakan untuk: ✔ Otomatis membuat folder banyak sekaligus
 
 
 GAMBAR 2
-
 https://drive.google.com/file/d/15WLuxXnhb6v0l5oCsdrz7amwrihI-XO0/view?usp=drivesdk
 
 
@@ -206,7 +205,7 @@ Script ini berfungsi untuk:  Menyimulasikan data recovery / backup otomatis
  Menyalin file tersebut ke folder tujuan
 Mencatat aktivitas ke file log
 
-
+GAMBAR 3
 https://drive.google.com/file/d/1bliwqGs9URrC9SzrmuB_TjiM-0glDcaD/view?usp=drivesdk
 
 
@@ -292,7 +291,7 @@ Menampilkan menu interaktif di CMD
  Memberi opsi pilihan ke user
  Menjalankan proses sesuai pilihan
 
-
+GAMBAR 4
 https://drive.google.com/file/d/1tFER0_pl8rr7sL4Pc52aJ0s9otlF1cPs/view?usp=drivesdk
 
 
