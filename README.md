@@ -362,3 +362,184 @@ Di layar itu sedang berjalan program .bat yang:  Menampilkan info folder
  Menampilkan menu
  Menunggu input user
  Menentukan proses backup/recovery
+
+GAMBAR 5
+
+https://drive.google.com/file/d/1OXCg-MiAKCjdKt15mL8W2gRQbESXNaBe/view?usp=drivesdk
+
+
+1. Baris Komentar
+:: SIMULASI DATA RECOVERY - SETUP ENVIRONMENT
+:: %Users:\SERVER\Desktop%setup.bat
+::***********************************************
+:: Menyiapkan Struktur Data Simulasi...
+:: Membuat folder dan file...
+Tanda :: adalah komentar dalam batch file. Tidak akan dieksekusi oleh Windows Command Prompt.
+
+2. Perintah set
+set "folder_sumber=SimulasiDrive_D"
+set "folder_tujuan=SimulasiDrive_C"
+set digunakan untuk membuat variabel.
+
+folder_sumber diset menjadi SimulasiDrive_D
+
+folder_tujuan diset menjadi SimulasiDrive_C
+
+Variabel ini akan digunakan untuk menyimpan nama folder.
+
+3. Perintah echo
+echo SETUP SELESAI!
+echo Folder sumber: %folder_sumber%
+echo Folder tujuan: %folder_tujuan%
+echo.
+echo digunakan untuk menampilkan teks ke layar.
+
+echo. digunakan untuk mencetak baris kosong.
+
+4. Perintah pause
+pause
+Digunakan untuk menghentikan eksekusi sementara sampai pengguna menekan tombol apa pun.
+
+Biasanya muncul teks: "Press any key to continue…"
+
+5. Perintah cls
+cls
+Membersihkan tampilan Command Prompt.
+
+6. Struktur Pemisah / Tampilan
+echo ********************************************
+Hanya untuk membuat garis dekoratif di layar agar output lebih rapi.
+
+7. Perintah echo f > "path\file.py"
+Di bagian bawah terlihat:
+
+echo f > "RAS\SimulasiDrive_D\Folder_X\Subfolder_Y\FileZ_XYA.py"
+Artinya:
+
+Membuat file baru bernama FileZ_XYA.py
+
+Mengisi file tersebut dengan huruf f
+
+Simbol > digunakan untuk overwrite (menulis file baru).
+Jika ingin menambah isi file, dipakai >>.
+
+Ringkasannya
+Perintah-perintah pada script ini melakukan:
+
+Memberi komentar penjelasan
+
+Membuat variabel untuk folder sumber dan tujuan
+
+Menampilkan informasi setup
+
+Menunggu input user
+
+Membersihkan layar dan memberi output dekorasi
+
+Membuat file Python kosong berisi satu karakter dengan echo >
+
+Kalau kamu ingin, saya bisa:
+
+ memperbaiki script ini
+ membuat versi otomatis yang lebih profesional
+ menjelaskan fungsi tiap baris secara lebih rinci
+
+Cukup bilang saja!
+
+Anda bilang:
+Gambar yang diunggah
+Jelaskan perintah perintah yang ada pada gambar inii
+ChatGPT bilang:
+Berikut penjelasan perintah–perintah batch (.bat) yang terlihat pada gambar tersebut. Saya jelaskan sesuai urutan baris yang muncul di script.
+
+ Penjelasan Per Baris Perintah
+1. echo
+Contoh:
+
+echo ************************************
+echo Menyiapkan Struktur Data Simulasi...
+echo SETUP SELESAI!
+Fungsinya:
+
+Menampilkan teks ke layar Command Prompt.
+
+echo. → menampilkan baris kosong (newline).
+
+2. Baris Komentar ::
+Contoh:
+
+:: SIMULASI DATA RECOVERY - SETUP ENVIRONMENT
+:: Membuat folder dan file...
+Fungsinya:
+
+Memberi komentar di script.
+
+Tidak ikut dieksekusi.
+
+3. set
+Contoh:
+
+set "folder_sumber=SimulasiDrive_D"
+set "folder_tujuan=SimulasiDrive_C"
+Fungsinya:
+
+Membuat atau mengisi variabel dalam batch.
+
+%folder_sumber% dan %folder_tujuan% dipakai untuk menampilkan atau memproses data nanti.
+
+4. pause
+pause
+Fungsinya:
+
+Menghentikan script sementara hingga pengguna menekan tombol apa saja.
+
+Biasanya muncul teks:
+
+Press any key to continue…
+
+5. cls
+cls
+Fungsinya:
+
+Membersihkan layar Command Prompt (clear screen).
+
+6. echo **************
+Contoh:
+
+echo *****************************************
+Fungsinya:
+
+Ini hanya garis dekorasi / pemisah agar tampilan rapi.
+
+7. echo f > "path/file.py"
+Terlihat pada bagian bawah:
+
+echo f > "RAZES\SimulasiDrive_D\Folder_X2A\Subfolder_C1\FileZ_X2A.py"
+Fungsinya:
+
+Membuat file baru FileZ_X2A.py
+
+Menuliskan huruf f ke dalam file tersebut.
+
+Tanda >
+
+Jika file belum ada → akan dibuat
+
+Jika sudah ada → akan di-overwrite (isinya diganti total)
+
+Jika ingin menambah isi file, gunakan >>.
+
+ Ringkasan Fungsi Script
+Script pada gambar melakukan hal berikut:
+
+Menampilkan judul dan informasi setup dengan echo
+
+Menyimpan nama folder ke variabel dengan set
+
+Menampilkan nilai variabel
+
+Memberi jeda menggunakan pause
+
+Membersihkan layar dengan cls
+
+Membuat file Python di path tertentu menggunakan echo >
