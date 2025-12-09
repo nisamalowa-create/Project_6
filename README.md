@@ -292,8 +292,7 @@ Menampilkan menu interaktif di CMD
  Menjalankan proses sesuai pilihan
 
 GAMBAR 4
-https://drive.google.com/file/d/1tFER0_pl8rr7sL4Pc52aJ0s9otlF1cPs/view?usp=drivesdk
-
+https://drive.google.com/file/d/1t8ZYg7dEPLUm5uKUNguLYiChYHOVVjuL/view?usp=drivesdk
 
 1. Tampilan Program
 
