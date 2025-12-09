@@ -1,8 +1,51 @@
 # Project_6
 
 GAMBAR 1
-https://drive.google.com/file/d/1_enU5_jOZsNlQE_oaw4aLwEmCWfA1Ao2/view?usp=drivesdk
 
+https://drive.google.com/file/d/1dQ00Onc54HI9hgL46CEaBm_ap5mthCg1/view?usp=drivesdk
+
+1. cd Desktop
+
+Perintah:
+
+cd Desktop
+
+Fungsi:
+
+cd = change directory
+
+Berpindah dari folder saat ini ke folder Desktop milik user.
+
+Artinya CMD sedang diarahkan ke:
+
+C:\Users\SERVER\Desktop
+
+2. code setup.bat
+
+Perintah:
+
+code setup.bat
+
+
+Fungsi:
+
+code adalah perintah untuk membuka Visual Studio Code (VS Code) dari Command Prompt.
+
+setup.bat adalah nama file batch.
+
+Artinya:
+Perintah ini akan membuka file setup.bat di Visual Studio Code.
+
+Jika file belum ada, VS Code akan membuat file baru dengan nama tersebut.
+
+Ringkasannya
+Perintah	Fungsi
+cd Desktop	Berpindah folder ke Desktop
+code setup.bat	Membuka (atau membuat) file setup.bat di Visual Studio Code
+
+GAMBAR 2
+
+https://drive.google.com/file/d/1_enU5_jOZsNlQE_oaw4aLwEmCWfA1Ao2/view?usp=drivesdk
 
 1. @echo off
 
