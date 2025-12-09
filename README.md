@@ -151,7 +151,8 @@ Script ini digunakan untuk: ✔ Otomatis membuat folder banyak sekaligus
 ✔ Membuat file contoh di tiap folder
 
 
-GAMBAR 2
+GAMBAR 3
+
 https://drive.google.com/file/d/15WLuxXnhb6v0l5oCsdrz7amwrihI-XO0/view?usp=drivesdk
 
 
@@ -248,7 +249,8 @@ Script ini berfungsi untuk:  Menyimulasikan data recovery / backup otomatis
  Menyalin file tersebut ke folder tujuan
 Mencatat aktivitas ke file log
 
-GAMBAR 3
+GAMBAR 4
+
 https://drive.google.com/file/d/1bliwqGs9URrC9SzrmuB_TjiM-0glDcaD/view?usp=drivesdk
 
 
@@ -334,7 +336,8 @@ Menampilkan menu interaktif di CMD
  Memberi opsi pilihan ke user
  Menjalankan proses sesuai pilihan
 
-GAMBAR 4
+GAMBAR 5
+
 https://drive.google.com/file/d/1t8ZYg7dEPLUm5uKUNguLYiChYHOVVjuL/view?usp=drivesdk
 
 1. Tampilan Program
@@ -406,7 +409,7 @@ Di layar itu sedang berjalan program .bat yang:  Menampilkan info folder
  Menunggu input user
  Menentukan proses backup/recovery
 
-GAMBAR 5
+GAMBAR 6
 
 https://drive.google.com/file/d/1OXCg-MiAKCjdKt15mL8W2gRQbESXNaBe/view?usp=drivesdk
 
